@@ -8,7 +8,7 @@
 
   <h3>Sky Brown's Hobbies</h3>
 
-  <p>Sky Brown also likes doing things outside of skateboarding. She also likes to do karate<br>, jujitsu, singing, dancing, and surfing. She wakes up early to surf with her dad and brother<br> in California. Here is a video of her song she wrote.</p>
+  <p>Sky Brown also likes doing things outside of skateboarding. She also likes<br> to do karate, jujitsu, singing, dancing, and surfing. She wakes up early to surf with her dad and brother<br> in California. Here is a video of her song she wrote.</p>
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fgWZs_KOQJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
